@@ -1,1 +1,16 @@
-Primeira alteração
+--Primeira alteração
+
+
+@@ -15,7 +15,7 @@ variavel n.
+
+var n = parseInt (prompt("Digite o valor",""));
+/* 
+
+    Identificar se o numero é par ou impar, vamos usar o seguinte raciocinio: se o resto
+    -da divisão do numero por 2 for igual a 0 o número será par. Caso contrário impar.
+    +da divisão do numero por 2 for igual a 0 o número será par. Caso contrário impar. ok
+
+    */
+
+    if ((n % 2) ==0 )
+    /*
